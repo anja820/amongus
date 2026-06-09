@@ -1,0 +1,8 @@
+amongos
+*.o
+*.out
+*.log
+.amongos_*.txt
+.amongos_*.pid
+core
+vgcore.*
